@@ -1,0 +1,6 @@
+eclipse java EE メモ
+
+・http://web.javastudy.biz/
+　上記サイトの「Javaサーブレット入門」をやっていく。
+
+・
